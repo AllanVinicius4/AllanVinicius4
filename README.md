@@ -4,8 +4,9 @@
 - 📫 Contate-me no email allanvinicius523@gmail.com
 - 😄 Pronouns: ele/dele
 
-[![Allan Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanVinicius4&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/AllanVinicius4)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanVinicius4&layout=compact&theme=dark)](https://github.com/AllanVinicius4)
+[![Allan Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanVinicius4&show_icons=true&theme=dark&count_private=true&include_all_commits=true&v=3)](https://github.com/AllanVinicius4)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanVinicius4&layout=compact&theme=dark&v=3)](https://github.com/AllanVinicius4)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
